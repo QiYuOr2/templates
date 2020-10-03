@@ -1,0 +1,22 @@
+{
+  "name": "xs-template",
+  "version": "1.0.0",
+  "repository": "https://github.com/Tuzilow/xs-template.git",
+  "author": "Tuzilow <1176281967@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "ts-node src/app.ts"
+  },
+  "devDependencies": {
+    "@types/esprima": "^4.0.2",
+    "@types/express": "^4.17.8",
+    "@types/node": "^14.11.2",
+    "ts-node": "^9.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "esprima": "^4.0.1",
+    "express": "^4.17.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
