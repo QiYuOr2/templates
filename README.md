@@ -1,3 +1,3 @@
-# templates
+# templates-jquery
 
-CLI 模板测试
+jQuery模板
