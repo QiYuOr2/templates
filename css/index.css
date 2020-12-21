@@ -10,11 +10,16 @@ body {
   height: 100%;
 }
 
+button {
+  margin-top: 1rem;
+}
+
 .container {
   height: 100%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  
+
   color: #369;
 }
