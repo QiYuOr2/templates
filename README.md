@@ -1,2 +1,3 @@
-# xs-template
-CLI模板测试
+# templates
+
+CLI 模板测试
