@@ -1,9 +1,6 @@
-# templates
+# templates-express
 
-CLI 模板测试
+express 模板
 
-| 分支         | 模板                        |
-| ------------ | --------------------------- |
-| express_test | 测试用模板                  |
-| jquery       | jQuery模板(含bootstrap依赖) |
-
+- `npm start` 运行程序
+- `npm test` 运行单元测试
