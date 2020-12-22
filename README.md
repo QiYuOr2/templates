@@ -6,4 +6,5 @@ CLI 模板测试
 | ------------ | --------------------------- |
 | express_test | 测试用模板                  |
 | jquery       | jQuery模板(含bootstrap依赖) |
+| express      | express模板                 |
 
